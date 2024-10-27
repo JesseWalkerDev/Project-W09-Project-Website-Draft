@@ -36,7 +36,7 @@ body {
 div .panel {
 	background-color: rgb(211, 241, 255);
 	border-radius: 20px;
-	border-color: rgb(145, 176, 226);/*content-box radial-gradient(crimson, skyblue);*/
+	border-color: rgb(145, 176, 226);
 	border-width: 4px;
 	border-style: solid;
 	margin-top: 10px;
