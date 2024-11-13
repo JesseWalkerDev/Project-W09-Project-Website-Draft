@@ -44,6 +44,10 @@ div .panel {
 	overflow-wrap: break-word;
 }
 
+.largeText {
+	font-size: x-large;
+}
+
 img {
 	border-radius: 10px;
 }
